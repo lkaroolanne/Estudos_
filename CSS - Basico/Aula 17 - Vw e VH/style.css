@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding:  0;
+    box-sizing:border-box;
+
+}
+.primeira-secao{
+    background-color: #f00;
+    border-bottom: 10px solid #000;
+    width: 50%;
+    height: 500vw;
+}
+
+.segunda-secao{
+    background-color: #0f0;
+    border-bottom: 10px solid #000;
+    width: 100%;
+    height: 500px;
+}
+
+.primeira-secao > div {
+    background-color: rgb(6, 6, 6);
+    border-bottom: 10px solid #f2ebeb;
+    width: 50%;
+    height: 100px;
+}

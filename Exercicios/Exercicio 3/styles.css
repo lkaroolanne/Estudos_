@@ -1,0 +1,27 @@
+/* Estilo para o conteúdo geral */
+.content {
+    padding: 20px;
+}
+
+/* Estilo para parágrafo padrão */
+.paragrafo-padrao {
+    background-color: #F5F5F5;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+/* Estilo para parágrafo destacado */
+.paragrafo-destaque {
+    background-color: #F5F5F5;
+    margin-bottom: 40px;
+    padding: 20px;
+    font-weight: bold;
+    border: 2px solid #D1D1D1;
+}
+
+/* Estilo para parágrafos coloridos */
+.paragrafo-colorido {
+    background-color: #F0CCE2;
+    margin-bottom: 40px;
+    padding: 20px;
+}

@@ -1,0 +1,21 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid red;
+}
+
+.com-border-box{
+    background-color: chocolate;
+    box-sizing: border-box;
+    /* width + padding + border = 100 + 20 + 5 = 125px */
+    
+}
+
+.sem-border-box{
+    background-color: cornflowerblue;
+}
+
+/* largura + pedding esquerda + pedding direita + border esquerda + border direita = 100 + 20 + 20 + 5 + 5 = 150px */
+
+/* largura + pedding cima + pedding baixo + border cima + border baixo = 100 + 20 + 20 + 5 + 5 = 150px */
